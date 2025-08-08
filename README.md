@@ -28,7 +28,9 @@ Para participar do evento final, o projeto deve:
 
 ## Destaques e Premiação
 
-Os melhores projetos serão convidados para apresentação especial em banca técnica, podendo ser parte da semana acadêmica. 
+Os projetos que mais se destacarem no Poster + Demo Day — seja pela inovação, qualidade técnica, impacto ou apresentação — receberão um convite especial para participar de uma Noite de Destaques.
+Nessa ocasião, os autores terão a oportunidade de apresentar suas soluções para uma banca técnica convidada, formada por professores, profissionais do mercado e especialistas da área.
+O evento será um momento único para compartilhar conquistas, trocar experiências e ampliar a visibilidade do trabalho, podendo integrar também a Semana Acadêmica da Católica SC.
 
 ## Requisitos de Entrega
 
@@ -37,5 +39,22 @@ Os melhores projetos serão convidados para apresentação especial em banca té
 - Link de acesso à aplicação/produto.
 - Documentação de arquitetura e requisitos.
 - Atendimento dos reqisitos defindos para cada uma das linhas
+
+# Links Importantes
+- [Portfolio I](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-I/blob/main/modelo-de-RFC.md)
+- [Avaliação](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II/blob/main/AvaliacaoPoster_DemoDay.md)
+- [Guia do Poster](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II/blob/main/guia_poster.md)
+- [Locais para Publicação](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II/blob/main/locais_publicacao.md)
+
+
+
+
+
+
+
+
+
+
+
 
 ---
