@@ -13,11 +13,11 @@ Os alunos deverão apresentar publicamente:
 ## Estilos de Projeto
 
 Cada projeto deve se enquadrar em uma das seguintes linhas, com critérios específicos para habilitação à apresentação final (a ser definido em documento específico):
-1. Web Apps 
-2. Aplicações Mobil
-3. Jogos Digitais
-4. Projetos com IA
-5. Projetos IoT
+1. [Web Apps](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II/blob/working/Linhas/web.md)
+2. [Aplicações Mobile](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II/blob/working/Linhas/mobile.md)
+3. [Jogos Digitais](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II/blob/working/Linhas/jogos.md)
+4. [Projetos com IA](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II/blob/working/Linhas/ia.md)
+5. [Projetos IoT](https://github.com/CatolicaSC-Portfolio/The-Portfolio-Playbook-II/blob/working/Linhas/iot.md)
    
 ## Participação no Poster + Demo Day
 
